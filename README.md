@@ -80,10 +80,6 @@
 						<span><strong>Redux</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 					</td>
-					<td align="center">
-						<span><strong>React Native</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td>
 				</tr>
 			</tbody>
 		</table>
