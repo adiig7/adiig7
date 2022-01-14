@@ -108,7 +108,7 @@
 	</center>
 
 ## Reach me 
-[![Instagram](https://img.shields.io/badge/-adiig7-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adiig7/)](https://www.instagram.com/adiig7/)
+[![Twitter](https://img.shields.io/badge/-adiig7-black?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/adiig7/)](https://www.twitter.com/adiig7/)
 [![Linkedin](https://img.shields.io/badge/-Aditya%20Gupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-056780197/)](https://www.linkedin.com/in/aditya-gupta-056780197/)
 [![Mail](https://img.shields.io/badge/-19ume017@lnmiit.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/aditya-gupta-056780197/)](mailto:19ume017@lnmiit.ac.in)
 
