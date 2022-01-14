@@ -1,11 +1,119 @@
 ### Hey, I am Aditya Gupta 👋
 
 
+## About me
 - 🔭 I’m currently working on my new MERN stack project
 - 🌱 I’m currently learning DSA 
 - 👯 I’m looking to collaborate on React Open Source Projects
 - 💬 Ask me about Android Development, Java and Web Development
-- 📫 How to reach me: [Twitter](https://twitter.com/adiig7)  [LinkedIn](https://www.linkedin.com/in/aditya-gupta-056780197/)
 - 😄 Pronouns: He/Him
 
+### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=adiig7&&show_icons=true&title_color=FFA62F&icon_color=FFDAB9&text_color=E2F516&bg_color=151516">
+
+## Technologies I know :computer:
+- **Programming Languages**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+          <td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png">
+          </td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+  
+ - **Android Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+          <td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
+					</td>
+						<td width="25%" align="center">
+						<span><strong>Firebase</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+					</td>
+           <td width="25%" align="center">
+						<span><strong>Kotlin<strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
+          </td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Frontend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+					</td>
+					<td align="center">
+						<span><strong>CSS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+					</td>
+					<td align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+					</td>
+					<td align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+					</td>
+					<td align="center">
+						<span><strong>React</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+					<td  align="center">
+						<span><strong>Redux</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+					</td>
+					<td align="center">
+						<span><strong>React Native</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+	
+- **Backend Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>Node JS</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Express</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>MongoDB</strong></span><br/>
+						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+
+## Reach me 
+[![Instagram](https://img.shields.io/badge/-adiig7-pink?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adiig7/)](https://www.instagram.com/adiig7/)
+[![Linkedin](https://img.shields.io/badge/-Aditya%20Gupta-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-gupta-056780197/)](https://www.linkedin.com/in/aditya-gupta-056780197/)
+[![Mail](https://img.shields.io/badge/-19ume017@lnmiit.ac.in-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/aditya-gupta-056780197/)](mailto:19ume017@lnmiit.ac.in)
+
+![](https://komarev.com/ghpvc/?username=adiig7&color=orange)
