@@ -4,10 +4,10 @@
 
 
 ## About me
-- 🔭 I’m currently working on my new MERN stack project
-- 🌱 I’m currently learning DSA 
+- 🌱 Web3 Enthusiast
+- 
 - 👯 I’m looking to collaborate on React Open Source Projects
-- 💬 Ask me about Android Development, Java and Web Development
+- 💬 Ask me about Web 2.0, Web 3.0, Solidity, Hardhat, ReactJS
 - 😄 Pronouns: He/Him
 
 ### Stats
