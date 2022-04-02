@@ -5,7 +5,6 @@
 
 ## About me
 - 🌱 Web3 Enthusiast
-- 
 - 👯 I’m looking to collaborate on React Open Source Projects
 - 💬 Ask me about Web 2.0, Web 3.0, Solidity, Hardhat, ReactJS
 - 😄 Pronouns: He/Him
