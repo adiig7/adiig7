@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on React Open Source Projects
 - 💬 Ask me about Web 2.0, Web 3.0, Solidity, Hardhat, ReactJS
 - 😄 Pronouns: He/Him
-
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=adiig7&&show_icons=true&title_color=FFA62F&icon_color=FFDAB9&text_color=E2F516&bg_color=151516">
 
@@ -31,6 +30,35 @@
 		</table>
 	</center>
   
+ - **Web3 Development**
+	<center>
+		<table>
+			<tbody>
+				<tr>
+          <td width="25%" align="center">
+						<span><strong>Solidity</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/579px-Solidity_logo.svg.png?20201202112837">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Ethereum</strong></span><br/>
+						<img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ethereum_logo_translucent.svg/1200px-Ethereum_logo_translucent.svg.png">
+          </td>
+					<td width="25%" align="center">
+						<span><strong>Hardhat</strong></span><br/>
+						<img height="64px" width="64px" src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png">
+          </td>
+					<td width="25%" align="center">
+						<span><strong>Ethers.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png">
+          </td>
+					<td width="25%" align="center">
+						<span><strong>Chai</strong></span><br/>
+						<img height="64px" width="64px" src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67">
+          </td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
  - **Android Development**
 	<center>
 		<table>
@@ -45,8 +73,6 @@
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
 					</td>
            <td width="25%" align="center">
-						<span><strong>Kotlin<strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/kotlin.svg">
           </td>
 				</tr>
 			</tbody>
