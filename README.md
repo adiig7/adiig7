@@ -1,6 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
-### Hey, I am Aditya Gupta 👋
+### Hey, I am Aditya Gupta 👋![Twitter Header @adiig7 (1)](https://user-images.githubusercontent.com/54351909/174865106-1bb28aa3-c6f8-4ec1-8a0a-b69d0563bb16.png)
+
 
 
 ## About me
