@@ -1,13 +1,19 @@
+![Twitter Header @adiig7 (1)](https://user-images.githubusercontent.com/54351909/174865106-1bb28aa3-c6f8-4ec1-8a0a-b69d0563bb16.png)
 
-### Hey, I am Aditya Gupta 👋![Twitter Header @adiig7 (1)](https://user-images.githubusercontent.com/54351909/174865106-1bb28aa3-c6f8-4ec1-8a0a-b69d0563bb16.png)
 
+### Hey, I am Aditya Gupta 👋
 
 
 ## About me
 - 🌱 Web3 Enthusiast
-- 👯 I’m looking to collaborate on React Open Source Projects
-- 💬 Ask me about Web 2.0, Web 3.0, Solidity, Hardhat, ReactJS
+- 💬 Ask me about Web 3.0, Solidity and Blockchain
 - 😄 Pronouns: He/Him
+
+## Resume 
+<a href="https://www.notion.so/adiig7/Hey-I-am-Aditya-468f562988414c708dc98932e2cae62f">
+<img width= "100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />
+</a>
+
 ### Stats
 <img src="https://github-readme-stats.vercel.app/api?username=adiig7&&show_icons=true&title_color=FFA62F&icon_color=FFDAB9&text_color=E2F516&bg_color=151516">
 
@@ -72,8 +78,6 @@
 						<span><strong>Firebase</strong></span><br/>
 						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
 					</td>
-           <td width="25%" align="center">
-          </td>
 				</tr>
 			</tbody>
 		</table>
