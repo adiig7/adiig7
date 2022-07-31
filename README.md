@@ -14,8 +14,22 @@
 <img width= "100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />
 </a>
 
-### Stats
-<img src="https://github-readme-stats.vercel.app/api?username=adiig7&&show_icons=true&title_color=FFA62F&icon_color=FFDAB9&text_color=E2F516&bg_color=151516">
+## Statistics
+
+<table>
+  <tr>
+    <td>
+       <a href="https://github.com/adiig7"><img alt="Aditya's Statistics" src="https://github-readme-stats.vercel.app/api?username=adiig7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+    </td>
+    <td>
+       <a href="http://www.github.com/adiig7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiig7&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/adiig7"><img alt="adiig7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiig7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Technologies I know :computer:
@@ -138,6 +152,10 @@
 			</tbody>
 		</table>
 	</center>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adiig7&bg_color=0000000&color=6600ff&line=ff6600&point=ffffff&hide_border=true)
+
+
 
 ## Reach me 
 [![Twitter](https://img.shields.io/badge/-adiig7-black?style=flat-square&logo=twitter&logoColor=blue&link=https://www.twitter.com/adiig7/)](https://www.twitter.com/adiig7/)
