@@ -5,8 +5,9 @@
 
 
 ## About me
-- 🌱 Web3 Enthusiast
-- 💬 Ask me about Web 3.0, Solidity and Blockchain
+- 🌱 Full Stack Developer | Software Development Engineer @CollegeIt
+- 💬 Ask me React, TailwindCSS, Javascript, Typescript, Redux, GraphQL, MongoDB, NodeJS, React Testing
+- 📝 I am learning Devops these Days
 - 😄 Pronouns: He/Him
 
 ## Resume 
