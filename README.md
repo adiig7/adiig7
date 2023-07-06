@@ -1,5 +1,5 @@
-![Twitter Header @adiig7 (1)](https://user-images.githubusercontent.com/54351909/174865106-1bb28aa3-c6f8-4ec1-8a0a-b69d0563bb16.png)
 
+![Aditya GUPta](https://github.com/adiig7/adiig7/assets/54351909/74d35588-ef53-45fc-a493-6fa59192d8b9)
 
 ### Hey, I am Aditya Gupta 👋
 
