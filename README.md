@@ -5,8 +5,8 @@
 
 
 ## About me
-- 🌱 Full Stack Developer | Software Development Engineer @CollegeIt
-- 💬 Ask me React, TailwindCSS, Javascript, Typescript, Redux, GraphQL, MongoDB, NodeJS, React Testing
+- 🌱 Full Stack Developer | Software Development Engineer @Pratilipi
+- 💬 Ask me React, VueJS TailwindCSS, Javascript, Typescript, Redux, GraphQL, MongoDB, NodeJS, React Testing
 - 📝 I am learning Devops these Days
 - 😄 Pronouns: He/Him
 
