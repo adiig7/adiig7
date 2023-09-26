@@ -10,11 +10,6 @@
 - 📝 I am learning Devops these Days
 - 😄 Pronouns: He/Him
 
-## Resume 
-<a href="https://www.notion.so/adiig7/Hey-I-am-Aditya-468f562988414c708dc98932e2cae62f">
-<img width= "100px" height="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png?20200221181224" />
-</a>
-
 ## Statistics
 
 <table>
