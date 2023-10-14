@@ -62,7 +62,9 @@
 		</tbody>
 	</table>
 </center>
+
 - **Frontend Development**
+  
 <center>
 <table>
 <tbody>
