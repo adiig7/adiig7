@@ -6,6 +6,7 @@
 
 - 🌱 Full Stack Developer | Software Development Engineer @Pratilipi
 - 💬 Ask me about React, VueJS TailwindCSS, Javascript, Typescript, Redux, GraphQL, MongoDB, NodeJS
+- Tinkers around Android, Kotlin as well!
 - 😄 Pronouns: He/Him
 
 ## Statistics
