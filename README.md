@@ -4,9 +4,8 @@
 
 ## About me
 
-- 🌱 Full Stack Developer | Software Development Engineer @Pratilipi
-- 💬 Ask me about React, VueJS TailwindCSS, Javascript, Typescript, Redux, GraphQL, MongoDB, NodeJS
-- Tinkers around Android, Kotlin as well!
+- 🌱 All things Frontend | Software Engineer @Pratilipi
+- 💬 Ask me about React, VueJS, NuxtJS TailwindCSS, Javascript, Typescript, Redis, GraphQL
 - 😄 Pronouns: He/Him
 
 ## Statistics
