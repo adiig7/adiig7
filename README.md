@@ -40,24 +40,6 @@
 	</table>
 </center>
 
-- **Android Development**
-<center>
-	<table>
-		<tbody>
-			<tr>
-       				<td width="25%" align="center">
-					<span><strong>Java</strong></span><br/>
-					<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-				</td>
-<td width="25%" align="center">
-					<span><strong>Kotlin</strong></span><br/>
-					<img height="64px" width="64p" src="https://cdn.svgporn.com/logos/kotlin.svg">
-				</td>
-			</tr>
-		</tbody>
-	</table>
-</center>
-
 - **Frontend Development**
   
 <center>
