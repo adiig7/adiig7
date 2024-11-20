@@ -15,7 +15,7 @@
        <a href="https://github.com/adiig7"><img alt="Aditya's Statistics" src="https://github-readme-stats.vercel.app/api?username=adiig7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-       <a href="http://www.github.com/adiig7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiig7&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adiig7&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     </td>
     <td>
       <a href="https://github.com/adiig7"><img alt="adiig7's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiig7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
