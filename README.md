@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-       <a href="https://github.com/adiig7"><img alt="Aditya's Statistics" src="https://github-readme-stats.vercel.app/api?username=adiig7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
+       <a href="https://github.com/adiig7"><img class="m-2 select-none pointer-events-none" draggable="false" id="stats" src="https://github-readme-stats.vercel.app/api?username=adiig7&amp;theme=radical&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt="Aditya's Github Stats"></a>
     </td>
     <td>
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=adiig7&theme=buefy-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
