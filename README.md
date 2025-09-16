@@ -3,9 +3,8 @@
 
 ## About me
 
-- 🌱 All things Frontend | Software Engineer @Pratilipi
-- 💬 Ask me about React, VueJS, NuxtJS TailwindCSS, Javascript, Typescript, Redis, GraphQL
-
+- 🌱 Software Engineer @Pratilipi
+  
 ## Statistics
 
 <table>
